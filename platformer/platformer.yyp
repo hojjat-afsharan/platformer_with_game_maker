@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "0da013a1-3491-498a-a720-9214fea9aac9",
+            "Value": {
+                "id": "af56752c-1d0b-4651-9640-8d56d785cc8f",
+                "resourcePath": "views\\0da013a1-3491-498a-a720-9214fea9aac9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0dfc7aad-7553-4576-823d-cc713659b63b",
+            "Value": {
+                "id": "8e559c0d-2011-42ca-8981-c326e27795f1",
+                "resourcePath": "views\\0dfc7aad-7553-4576-823d-cc713659b63b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0f16c2c4-93f0-42ce-94b3-616d20aa3b02",
             "Value": {
                 "id": "0fb5a84b-fad7-4e92-83d7-5cde22f9f6fa",
@@ -100,6 +116,14 @@
                 "id": "246ed51b-240f-4290-b733-f84eadebf016",
                 "resourcePath": "views\\5a0a6010-3b28-4f17-891b-f69190d2ddea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6242c69d-28b6-45b3-8e50-674b8be0d6bb",
+            "Value": {
+                "id": "43b2151c-24be-4159-8cd3-13ce5d6e72cd",
+                "resourcePath": "sprites\\player_spr\\player_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "940839e8-944c-4481-8845-0db22ae6f0f8",
+            "Value": {
+                "id": "b3755f24-bb3e-481c-8a45-da229ad579b8",
+                "resourcePath": "views\\940839e8-944c-4481-8845-0db22ae6f0f8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9e6e9c77-ac79-4368-9294-302fad0796ca",
             "Value": {
                 "id": "d08a43db-0f49-41a8-be72-b720369fa576",
@@ -188,6 +220,30 @@
                 "id": "f5f25474-5567-40c4-bd06-289445b3070b",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ba6c4c6a-c3f2-48ef-859a-cf01d8db91ce",
+            "Value": {
+                "id": "f08bf9ac-54c4-4503-a8bd-a5a460dd85ba",
+                "resourcePath": "objects\\player_obj\\player_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bc7c161a-521c-44bc-b0e1-da77b804efe3",
+            "Value": {
+                "id": "2e155288-c2f8-4a1f-9a25-156c2a832bd4",
+                "resourcePath": "objects\\wall_obj\\wall_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c935ef6c-eb4d-474a-bd9e-58c4af98f4e8",
+            "Value": {
+                "id": "dae66c38-5b55-4379-bd85-35fdee3e421a",
+                "resourcePath": "sprites\\player_jump_spr\\player_jump_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -220,6 +276,14 @@
                 "id": "76ccc90c-cc28-443d-a98b-1ee819f4adc3",
                 "resourcePath": "views\\e52667be-4081-4730-b927-e2b81eadd92e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e6299431-3b0f-4afe-869f-51efca98e816",
+            "Value": {
+                "id": "d15f622a-132d-46a6-bbbc-4ce219fca43d",
+                "resourcePath": "sprites\\wall_spr\\wall_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,6 +324,14 @@
                 "id": "cec88268-d58c-47ab-9691-629edab13185",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fba09c40-b22e-47c4-b1af-572ec4c196bb",
+            "Value": {
+                "id": "d0c92460-ff75-4a21-a2ab-21e72278d0bc",
+                "resourcePath": "sprites\\player_run_spr\\player_run_spr.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
